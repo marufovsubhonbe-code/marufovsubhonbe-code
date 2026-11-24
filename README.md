@@ -111,6 +111,9 @@ Consistency  → Make progress every day
 <a href="https://t.me/Subhonbe_dev">
   <img src="https://img.shields.io/badge/Telegram-Contact%20Me-0b1220?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
 </a>
+<a href="tel:+998903685010">
+  <img src="https://img.shields.io/badge/Phone-Call%20Me-0b1220?style=for-the-badge&logo=phone&logoColor=white" alt="Phone" />
+</a>
 
 ### *Learn deeply. Build thoughtfully. Keep moving.*
 
