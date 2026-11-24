@@ -1,92 +1,116 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080B14,50:123B70,100:55A6FF&height=220&section=header&text=SUBHONBEK%20MARUFOV&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Python%20Developer%20%7C%20Backend%20Enthusiast&descAlignY=58&descSize=17" width="100%" />
-
-### Building ideas into reality through code.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-0d1117?style=for-the-badge&logo=github)](https://github.com/marufovsubhonbe-code)
-[![Email](https://img.shields.io/badge/Email-Contact-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:msubhonbe@gmail.com)
-
-</div>
-
----
-
-## $ whoami
-
-Hey! I'm Subhonbek, a developer from Uzbekistan.
-
-I'm passionate about technology, programming, and understanding how things work behind the scenes.
-
-- Currently exploring Python & Backend Development
-- Learning to build practical software solutions
-- Interested in Linux and Open Source
-- Always experimenting with new technologies
-- Believe in consistency, curiosity, and clean code
-
----
-
-## $ tech-stack
-
-<div align="center">
-
-Languages & Web
-
-<img src="https://skillicons.dev/icons?i=python,html,css" />
-
-Backend & Databases
-
-<img src="https://skillicons.dev/icons?i=django,postgres,sqlite" />
-
-Tools & Environment
-
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" />
-
-</div>
-
----
-
-## $ github-analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=marufovsubhonbe-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=55A6FF&icon_color=55A6FF&text_color=CBD5E1" />
-
-<img width="49%" src="https://github-readme-streak-stats.demolab.com?user=marufovsubhonbe-code&theme=tokyonight&hide_border=true&background=080B14&ring=55A6FF&fire=55A6FF&currStreakLabel=55A6FF" />
-
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufovsubhonbe-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=080B14&title_color=55A6FF&text_color=CBD5E1" />
-
-</div>
-
----
-
-## $ current-focus
-
-| Area | Focus |
-|:---|:---|
-| Python | Writing better Python code |
-| Django | Backend development |
-| PostgreSQL | Database management |
-| Linux | Understanding systems |
-| Open Source | Exploring developer communities |
-
----
-
-## $ connect
-
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,45:102B50,100:1E90FF&height=240&section=header&text=SUBHONBEK%20MARUFOV&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=BACKEND%20DEVELOPER%20IN%20PROGRESS&descAlignY=58&descSize=18&animation=fadeIn" width="100%" alt="Subhonbek Marufov profile banner" />
 
 <a href="https://github.com/marufovsubhonbe-code">
-<img src="https://img.shields.io/badge/GitHub-080B14?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2800&pause=900&color=55A6FF&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;Building+with+Django+%26+PostgreSQL;Linux+%7C+Git+%7C+Open+Source;Learning.+Building.+Improving." alt="Animated typing introduction" />
 </a>
 
-<a href="mailto:msubhonbe@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-080B14?style=for-the-badge&logo=gmail&logoColor=EA4335" />
-</a>
+<p>
+  <a href="https://github.com/marufovsubhonbe-code"><img src="https://img.shields.io/badge/GitHub-Profile-0b1220?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
+  <a href="mailto:msubhonbe@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0b1220?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=marufovsubhonbe-code&style=for-the-badge&color=1E90FF&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-<br><br>
 
-"Learn continuously. Build consistently. Improve every day."
+### `Turning ideas into reliable software.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:55A6FF,100:080B14&height=100&section=footer" width="100%" />
+</div>
+
+
+---
+
+## `whoami` — About Me
+
+
+Hey! I'm **Subhonbek Marufov** 🇺🇿 — a programming enthusiast focused on **Python and Backend Development**.
+
+
+I'm learning to design backend systems, work with databases, and turn ideas into practical projects. I enjoy understanding how things work behind the scenes and improving my skills one project at a time.
+
+
+- 🐍 Focused on **Python development**
+- ⚙️ Exploring **Django & backend architecture**
+- 🗄️ Learning database design with **PostgreSQL**
+- 🐧 Working in a **Linux** environment
+- 🔧 Practicing with Git, GitHub, and real projects
+- 📚 Always learning, experimenting, and improving
+
+
+---
+
+## `tech_stack` — Tools & Technologies
+
+<div align="center">
+
+#### Languages & Web
+
+<img src="https://skillicons.dev/icons?i=python,html,css" alt="Python HTML CSS" />
+
+#### Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=django,postgres,sqlite" alt="Django PostgreSQL SQLite" />
+
+#### Development Tools
+
+<img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Linux Git GitHub VS Code" />
+
+</div>
+
+
+---
+
+## `currently_learning` — Current Focus
+
+<table>
+<tr><td><b>🐍 Python</b></td><td>Core concepts, clean code, and problem solving</td></tr>
+<tr><td><b>🌐 Django</b></td><td>Building web backends and learning framework fundamentals</td></tr>
+<tr><td><b>🗃️ PostgreSQL</b></td><td>SQL, relationships, queries, and database structure</td></tr>
+<tr><td><b>🐧 Linux</b></td><td>Terminal, system tools, and development environment</td></tr>
+<tr><td><b>🔀 Git & GitHub</b></td><td>Version control and project collaboration workflows</td></tr>
+</table>
+
+
+---
+
+## `github_stats` — GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=marufovsubhonbe-code&show_icons=true&hide_border=true&rank_icon=github&bg_color=080B14&title_color=55A6FF&icon_color=55A6FF&text_color=CBD5E1" alt="GitHub profile stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marufovsubhonbe-code&layout=compact&hide_border=true&bg_color=080B14&title_color=55A6FF&text_color=CBD5E1" alt="Top languages" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=marufovsubhonbe-code&hide_border=true&background=080B14&ring=55A6FF&fire=55A6FF&currStreakLabel=55A6FF&sideLabels=CBD5E1&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" alt="GitHub contribution streak" />
+
+</div>
+
+
+---
+
+## `developer_mindset`
+
+```text
+Curiosity    → Explore how things work
+Learning     → Understand the fundamentals
+Building     → Turn knowledge into projects
+Consistency  → Make progress every day
+```
+
+
+---
+
+## `connect` — Find Me
+
+
+<div align="center">
+
+<a href="https://github.com/marufovsubhonbe-code"><img src="https://img.shields.io/badge/GitHub-Follow%20my%20work-111827?style=for-the-badge&logo=github" alt="GitHub" /></a>
+<a href="mailto:msubhonbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20an%20email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+
+<br/><br/>
+
+### *Learn deeply. Build thoughtfully. Keep moving.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E90FF,100:070B14&height=120&section=footer" width="100%" alt="Footer wave" />
 
 </div>
