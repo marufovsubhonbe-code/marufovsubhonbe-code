@@ -108,6 +108,9 @@ Consistency  → Make progress every day
 <a href="mailto:msubhonbe@gmail.com"><img src="https://img.shields.io/badge/Gmail-Send%20an%20email-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
 <br/><br/>
+<a href="https://t.me/Subhonbe_dev">
+  <img src="https://img.shields.io/badge/Telegram-Contact%20Me-0b1220?style=for-the-badge&logo=telegram&logoColor=26A5E4" alt="Telegram" />
+</a>
 
 ### *Learn deeply. Build thoughtfully. Keep moving.*
 
